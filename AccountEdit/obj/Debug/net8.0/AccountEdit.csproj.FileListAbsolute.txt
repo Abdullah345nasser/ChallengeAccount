@@ -1,0 +1,14 @@
+E:\AccountCha\AccountEdit\AccountEdit\obj\Debug\net8.0\AccountEdit.GeneratedMSBuildEditorConfig.editorconfig
+E:\AccountCha\AccountEdit\AccountEdit\obj\Debug\net8.0\AccountEdit.AssemblyInfoInputs.cache
+E:\AccountCha\AccountEdit\AccountEdit\obj\Debug\net8.0\AccountEdit.AssemblyInfo.cs
+E:\AccountCha\AccountEdit\AccountEdit\obj\Debug\net8.0\AccountEdit.csproj.CoreCompileInputs.cache
+E:\AccountCha\AccountEdit\AccountEdit\bin\Debug\net8.0\AccountEdit.exe
+E:\AccountCha\AccountEdit\AccountEdit\bin\Debug\net8.0\AccountEdit.deps.json
+E:\AccountCha\AccountEdit\AccountEdit\bin\Debug\net8.0\AccountEdit.runtimeconfig.json
+E:\AccountCha\AccountEdit\AccountEdit\bin\Debug\net8.0\AccountEdit.dll
+E:\AccountCha\AccountEdit\AccountEdit\bin\Debug\net8.0\AccountEdit.pdb
+E:\AccountCha\AccountEdit\AccountEdit\obj\Debug\net8.0\AccountEdit.dll
+E:\AccountCha\AccountEdit\AccountEdit\obj\Debug\net8.0\refint\AccountEdit.dll
+E:\AccountCha\AccountEdit\AccountEdit\obj\Debug\net8.0\AccountEdit.pdb
+E:\AccountCha\AccountEdit\AccountEdit\obj\Debug\net8.0\AccountEdit.genruntimeconfig.cache
+E:\AccountCha\AccountEdit\AccountEdit\obj\Debug\net8.0\ref\AccountEdit.dll
